@@ -1,0 +1,47 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+}
+
+div a h1 {
+	font-size: 2em;
+	color: black;
+	text-decoration: none;
+	font-family: 'Arial', serif;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+#header-nav {
+	background-color: gold;
+}
+
+.text-center {
+	font-size: 1.5em;
+}
+
+.row div {
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.row .container-fluid {
+	background-color: black !important;
+}
+
+#collapsable-nav {
+	background-color: orange !important;
+}
+
+#ourmenu {
+	font-size: 2em;
+}
+
+.navbar-toggle {
+	margin-top: -2.3em;
+}
